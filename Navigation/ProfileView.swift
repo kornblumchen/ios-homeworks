@@ -9,7 +9,6 @@ import UIKit
 
 class ProfileView: UIView {
 
-    @IBOutlet weak var contentView: UIView!
     @IBOutlet weak var UserAvatar: UIImageView!
     @IBOutlet weak var UserName: UILabel!
     @IBOutlet weak var BirthDate: UILabel!

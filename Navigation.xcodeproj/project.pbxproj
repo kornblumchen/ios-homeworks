@@ -64,9 +64,9 @@
 		7DD9D19F27FF2B11007B71DB /* Navigation */ = {
 			isa = PBXGroup;
 			children = (
-				7DD9D1B427FF2CF9007B71DB /* Profile.storyboard */,
-				7DD9D1B627FF2CF9007B71DB /* ProfileView.swift */,
 				7DD9D1B727FF2CF9007B71DB /* ProfileView.xib */,
+				7DD9D1B627FF2CF9007B71DB /* ProfileView.swift */,
+				7DD9D1B427FF2CF9007B71DB /* Profile.storyboard */,
 				7DD9D1B527FF2CF9007B71DB /* ProfileViewController.swift */,
 				7DD9D1A027FF2B11007B71DB /* AppDelegate.swift */,
 				7DD9D1A227FF2B11007B71DB /* SceneDelegate.swift */,
